@@ -17,6 +17,8 @@ public class ProfileActivity extends AppCompatActivity {
         Log.d("hi", "cool");
         Log.d("hi", "eh");
         Log.d("alex","v2");
+        Log.d("joshchough", "v3");
+        Log.d("joshchough", "v4");
         Log.d("change","local1");
     }
 }
