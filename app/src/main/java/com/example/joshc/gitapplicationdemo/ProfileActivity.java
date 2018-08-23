@@ -13,6 +13,7 @@ public class ProfileActivity extends AppCompatActivity {
     }
 
     void test() {
+        //WOWOWOW JOSH
         Log.d("ODSAJO", "cool");
         Log.d("hi", "cool");
         Log.d("hi", "eh");
